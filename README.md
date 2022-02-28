@@ -14,7 +14,7 @@ Contiene 2 clases, las cuales se encargan de:
 
 Contiene 3 funciones principales:
    
-- BuscarPorPrecio:
+- BuscarPorPrecio: Realiza el fildrado a la base de datos recogiendo el argumento enviado via $_POST[Precio]
 - BuscarTodas:
 - CargarPrecios:
 
