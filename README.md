@@ -15,6 +15,6 @@ Contiene 2 clases, las cuales se encargan de:
 Contiene 3 funciones principales:
    
 - BuscarPorPrecio: Realiza el fildrado a la base de datos recogiendo el argumento enviado via $_POST[Precio]
-- BuscarTodas:
-- CargarPrecios:
+- BuscarTodas: Realiza la consulta "Select * from habitacion".
+- CargarPrecios: Realiza carga del xml llevando su resultado a un array, a travez de un regorrido imprime los precios para el fildrado de la consulta (BuscarPorPrecio)
 
