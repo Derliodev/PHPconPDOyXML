@@ -14,7 +14,7 @@ Contiene 2 clases, las cuales se encargan de:
 
 Contiene 3 funciones principales:
    
-   -. BuscarPorPrecio:
-   -. BuscarTodas:
-   -. CargarPrecios:
+- BuscarPorPrecio:
+- BuscarTodas:
+- CargarPrecios:
 
